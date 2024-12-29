@@ -1,0 +1,49 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Spyder project files
+.spyderproject
+.spyderworkspace
+
+# Unit test / coverage reports
+*.cover
+*.log
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Sensitive files
+*.env
+*.key
+*.pem
